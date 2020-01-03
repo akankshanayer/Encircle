@@ -4,7 +4,7 @@ Created on Thu Jan  2 11:58:22 2020
 
 @author: Akanksha
 """
-#!/usr/bin/python
+#!/usr/bin/env python
 
 import sys
 import re
